@@ -25,7 +25,7 @@
 - `[ModuleNav]` Fixed zindex issue on the overlay. ([#8817](https://github.com/infor-design/enterprise/issues/8817))
 - `[Multiselect]` Fixed bug in multiselect noted in RTL mode. ([#8811](https://github.com/infor-design/enterprise/issues/8811))
 - `[Tabs]` Fixed example page for disabling dismissible tags. ([NG#1697](https://github.com/infor-design/enterprise/issues/1697))
-
+- `[Datagrid]` Fixed memory leak on the detached HTML elements. ([#8833](https://github.com/infor-design/enterprise/issues/8833))
 ## v4.96.0
 
 ## v4.96.0 Features
